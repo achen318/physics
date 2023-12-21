@@ -11,4 +11,4 @@ These are VPython labs ran on web via Glowscript.\
 
 1. [Free Fall](https://glowscript.org/#/user/achen45/folder/MyPrograms/program/freefall)
 2. [Earth Orbit](https://glowscript.org/#/user/achen45/folder/MyPrograms/program/EarthOrbitAnthonyChen)
-3. [Solar System](https://glowscript.org/#/user/achen45/folder/MyPrograms/program/OrbitsLabAnthonyChenPart3)
+3. [Solar System](https://glowscript.org/#/user/achen45/folder/MyPrograms/program/OrbitsLabAnthonyChenPart3) (created by me)
